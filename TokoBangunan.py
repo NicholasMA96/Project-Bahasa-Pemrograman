@@ -178,6 +178,6 @@ class TokoMaterial:
                         print("Pilihan Tidak Tersedia")
             except ValueError:
                 print("Harus Input Angka")
-if __name__ == "__main__"
+if __name__ == "__main__":
     toko = TokoMaterial()
     toko.jalankan()
